@@ -1,0 +1,7 @@
+*.suo
+*.xml
+.vs
+/obj
+/bin/Release
+/bin/Debug/ImportUtil.*
+/packages
